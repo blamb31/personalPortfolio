@@ -1,0 +1,13 @@
+.navBarDiv {
+    width: 100%;
+    background: transparent;
+    display: flex;
+    justify-content: center;
+    border-bottom: 2px solid #FFA601;
+}
+
+.links {
+    margin: 5% 2.5%;
+    text-decoration: none;
+    color: #051C3E;
+}
