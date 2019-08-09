@@ -1,0 +1,9 @@
+.logos{
+    width: 10%;
+    margin: 5% 2%;
+}
+
+.logoContainer {
+    display: flex;
+    justify-content: center;
+}
